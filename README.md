@@ -1,4 +1,3 @@
-````markdown
 # Family Travel Tracker
 
 ## Overview
@@ -82,4 +81,3 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-````
