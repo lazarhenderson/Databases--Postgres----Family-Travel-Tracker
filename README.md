@@ -14,9 +14,9 @@ Family Travel Tracker is a web application designed to track the countries visit
 
 - **Backend:**
 
-  - [Express.js](https://expressjs.com/) - A fast, unopinionated, minimalist web framework for Node.js.
-  - [Body-Parser](https://www.npmjs.com/package/body-parser) - Middleware to parse incoming request bodies in a middleware before your handlers.
-  - [PostgreSQL](https://www.postgresql.org/) - A powerful, open-source object-relational database system.
+  - [Express.js](https://expressjs.com/) - A fast & minimalist web framework for Node.js.
+  - [Body-Parser](https://www.npmjs.com/package/body-parser) - Middleware to parse incoming request bodies in a middleware before the handlers.
+  - [PostgreSQL](https://www.postgresql.org/) - An open-source object-relational database system.
   - [pg](https://node-postgres.com/) - PostgreSQL client for Node.js.
 
 - **Database:**
